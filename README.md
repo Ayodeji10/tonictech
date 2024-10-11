@@ -13,6 +13,6 @@ This porject is hosted [Here](https://tonictech.vercel.app).
 ### `Running this project locally`
 
 To run this project on your local machine, clone this repository, delete the yarn.lock file and run "yarn",
-then run "yarn run dev"
+then run "yarn dev"
 
 Thank you for your time.
