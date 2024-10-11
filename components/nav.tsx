@@ -48,7 +48,7 @@ export function Navbar() {
   return (
     <nav className="relative flex items-center justify-between p-4 mb-16">
       <Link href="/" aria-label="Homepage">
-        <Image src="/logo.png" alt="Website logo" width={162} height={42} />
+        <Image src="/Logo.png" alt="Website logo" width={162} height={42} />
       </Link>
       <div className="lg:hidden">
         <button
