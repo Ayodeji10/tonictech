@@ -1,4 +1,4 @@
-# Next Basket assessment
+# Tonitech assessment
 
 This is a Next app built on typescript and tailwind CSS
 This porject is hosted [Here](https://tonictech.vercel.app).
